@@ -1,0 +1,16 @@
+.todo-container {
+    padding: 20px;
+}
+.todo-container form input {
+    padding: 20px;
+    width: 70%;
+    margin-right: 30px;
+    outline: none;
+} 
+.todo-container form button { 
+    background-color: coral;
+    padding: 20px;
+    width: 13%;
+    outline: none;
+    font-style: italic;
+}
